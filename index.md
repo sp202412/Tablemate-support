@@ -1,133 +1,67 @@
-Tablemate Prices Support Centre
+
+Support Centre 
 
 About the App
 
-Tablemate Prices is an augmented reality (AR) based utility that helps users read and track real-world prices. Using advanced computer vision technology, the app provides real-time price recognition and tracking capabilities.
+Tablemate Travel Lens helps you read real-world prices and see estimated currency conversions on your camera view. You can also request Translate or Menu AI for short, on-demand text help.
 
-Features & Capabilities
+Features
 
-- Real-time AR price recognition using Apple Vision framework
-- Instant currency and price scanning
-- User-friendly interface for easy price tracking
-- Works offline - no internet required for core functionality
-- Compatible with iOS 16 and above
-- Supports iPhone models with AR capability
+•	Live price overlays (AR)
+•	Estimated currency conversion
+•	Translate: quick translation of selected text
+•	Menu AI: short, plain-English dish/explanation blurbs
+•	iPhone with AR capability, iOS 16+
 
 How to Use
 
-Basic Usage
+1.	Open the app → pick your Home and Destination currencies.
+2.	Tap Start Price Detection.
+3.	Aim at a price on a menu, receipt, or label and hold steady.
+4.	Optional: tap Translate for a translation, or Menu AI for a brief explanation.
 
-1. Launch the app
-2. Select desired home currency and travelling currency
-3. Press the Start Price Detection button
-4. Point your camera at any price tag or currency
-5. Hold steady for a moment
-6. The app will recognize and display the price
+Tips
 
-Tips for Best Results
+•	Good lighting, steady hand, keep the price fully in view.
+•	Handwritten/stylized fonts may reduce accuracy.
 
-- Ensure adequate lighting
-- Keep the camera steady
-- Position the price within the scanning frame
-- Avoid extreme angles
-- Make sure the price is clearly visible and not obscured
+Known Limits
 
-Known Limitations
-
-- May require good lighting conditions for optimal recognition
-- Works best with clear, printed text
-- Recognition accuracy may vary with handwritten prices
-- Some currencies might require multiple scanning attempts
+•	Overlays may drift in low light or fast motion.
+•	Estimates may differ from merchant or card-network rates.
+•	Translate/Menu AI require internet connectivity.
 
 Troubleshooting
 
-Common Issues and Solutions
+•	Camera blocked: Settings → Privacy → Camera → allow access, then relaunch.
+•	No overlays: improve lighting, steady the device, ensure price is clear.
+•	Translate/Menu AI not working: check internet connection.
+•	Slow/laggy: close background apps, ensure free storage, restart device.
 
-- Camera Not Working
-- Check camera permissions in Settings → Privacy → Camera
-- Ensure iOS is updated to the latest version
-- Restart the app
+Privacy & Data (Summary)
 
-AR Features Not Available
+•	Camera input is handled on your device for overlays.
+•	If you use Translate or Menu AI, the app may send limited extracted text (not images) to our server to produce a result.
+•	We collect basic analytics and crash diagnostics to improve reliability.
+•	No precise location via the app. See the Privacy Policy for details.
 
-- Verify your device supports AR functionality
-- Ensure sufficient lighting
-- Close other AR apps running in background
+Permissions
 
-App Performance
+•	Camera: required for overlays.
+•	Network: required for Translate/Menu AI and analytics/crash diagnostics.
+•	Local storage: preferences and cache.
 
-- Keep your device iOS updated
-- Ensure sufficient storage space
-- Close background apps for optimal performance
-- Check for low power mode if battery is low
+Support
 
-Device Requirements
+•	Email: tablemateprices@gmail.com
+•	Terms of Service: https://sp202412.github.io/Tablemate-support/terms
+•	Privacy Policy: https://sp202412.github.io/Tablemate-support/privacy
 
-- iPhone models supporting AR functionality
-- iOS 16 or later
-- Camera access
-- Sufficient storage space for app installation
+Version
 
-Privacy & Data Usage
+•	Current: 2.0 • Updated: 17 December 2025
 
-- Camera access: Required for AR functionality
-- Local Storage: Used for apps core functionality 
-- Analytics: Basic app usage data collected via Firebase Analytics
-- No personal data collection 
-- No location tracking 
 
-Contact & Support
 
-- Email: tablemateprices@gmail.com
 
-Feedback & Feature Requests
-
-We welcome your suggestions and feedback. Please contact us at tablemateprices@gmail.com
-
-Technical Specifications
-
-- AR Technology: Apple ARKit
-- Vision Processing: Apple Vision Framework
-- Price Recognition: Real-time computer vision processing
-- Operating System: iOS 16 and above
-- Network: Not required for core functionality
-- Storage: Minimal local storage usage
-
-Terms of Use
-
-By using Tablemate Prices, you agree to:
-1. Use the app for its intended purpose
-2. Acknowledge that price recognition is provided as-is and indicative only
-3. Accept that accuracy is entirely indicative and may vary based on conditions
-4. Comply with Apple's terms of service
-5. Use the app in accordance with local laws and regulations
-
-Disclaimer
-
-- Price recognition results completely indicative and are for reference only
-- Users should verify all recognized prices independently
-
-Privacy Policy
-
-For detailed information about data handling and privacy, please visit our Privacy Policy: https://sp202412.github.io/tablemate-support/privacy
-
-App Permissions
-
-- Camera: Required for AR functionality
-- Local Storage: For saving preferences and app functionality 
-- Network Access: Required for analytics only
-
-Updates & Versions
-
-- Current Version: 1.3
-- Last Updated: 2nd January 2025
-
-Acknowledgments
-
-- ARKit and Vision frameworks by Apple
-- Analytics by Google Firebase
-
-Last Modified: 2nd January 2025
-
----
-2025 Tablemate Prices. All Rights Reserved.
+<img width="468" height="647" alt="image" src="https://github.com/user-attachments/assets/0ac48189-efe1-472c-a104-3d64cae2aa52" />
