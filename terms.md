@@ -2,9 +2,7 @@
 Tablemate Travel Lens  — Terms of Service 
 
 Effective date: 17 December 2025
-
 Operator: “Tablemate Travel Lens ” (“we,” “us,” “our”)
-
 Contact: tablemateprices@gmail.com  
 
 1) What these Terms cover
@@ -14,15 +12,10 @@ These Terms govern your use of the Tablemate Travel Lens mobile application and 
 2) Definitions
 
 •	Application (App): the Tablemate Travel Lens mobile application you install.
-
 •	Service: the App and any related features, software, content, and support we provide.
-
 •	Augmented Reality (AR): computer-generated overlays that appear on your live camera view.
-
 •	Optical Character Recognition (OCR): automated detection of text within images or video frames.
-
 •	User Content: text or other material you submit or cause the App to process (for example, detected price strings or notes).
-
 •	Outputs: on-screen overlays, estimated currency conversions, translations, or explanations produced by the Service.
 
 3) What Tablemate Travel Lens does
@@ -50,15 +43,10 @@ The App processes camera frames locally to detect text for AR overlays. For opti
 You agree not to:
 
 •	Use the Service unlawfully, unsafely, or to infringe privacy or intellectual-property rights.
-
 •	Scrape, extract, or bulk download exchange-rate sources or databases underlying the Service.
-
 •	Interfere with, probe, or bypass security or technical restrictions.
-
 •	Build a competing dataset or product primarily from the Service’s Outputs or behavior.
-
 •	Use Outputs to misrepresent prices or deceive consumers.
-
 •	Present the Service as a means to process payments, remit funds, or execute trades.
 
 9) Accuracy and limitations
